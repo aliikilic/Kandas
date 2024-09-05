@@ -1,0 +1,8 @@
+﻿1-) PersonalInformation için kayıt oluşturma    -- tamam 
+2-) PersonInquiryForm için kayıt oluşturma    -- PersonalInformation Id nin nasıl alınacağı dışında tamam. 
+3-) Recepient için kayıt oluşturma  -- tamam
+4-) Donations için kayıt oluşturma -- aynı alıcı için 1 den fazla olduğu durumlarda sadece ilk girileni getiriyor
+									-- onu da bir şarta bağlarsan tamam
+5-) DonationMovement için kayıt oluşturma  -- kabaca tamam
+6-) Notifications için kayıt oluşturma  -- TAMAM
+7-) Geçmiş bağışlar için donationmovements tablosundan veri çek  

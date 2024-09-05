@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebUI
+build_property.RootNamespace = WebUI
+build_property.ProjectDir = C:\Users\DELL\Desktop\KANDAS\Kan Bağışı Uygulaması\Proje\WebUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DELL\Desktop\KANDAS\Kan Bağışı Uygulaması\Proje\WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/AdminPages/AddDonation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYWdlc1xBZGREb25hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/AdminPages/AddRecepient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYWdlc1xBZGRSZWNlcGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/AdminPages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/DefaultPartials/ApprovedDonationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFBhcnRpYWxzXEFwcHJvdmVkRG9uYXRpb25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/DefaultPartials/NotificationTablePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFBhcnRpYWxzXE5vdGlmaWNhdGlvblRhYmxlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/DefaultPartials/TopBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFBhcnRpYWxzXFRvcEJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/ForgetPassword/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yZ2V0UGFzc3dvcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/ForgetPassword/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yZ2V0UGFzc3dvcmRcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/HomePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/HomePage/NotificationTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcTm90aWZpY2F0aW9uVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/Inquiryform/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5xdWlyeWZvcm1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/OldDonations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2xkRG9uYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/OldDonations/PreviousDonations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2xkRG9uYXRpb25zXFByZXZpb3VzRG9uYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/PersonalInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxJbmZvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/Register/Registeration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXJhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/KANDAS/Kan Bağışı Uygulaması/Proje/WebUI/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l9yroajyng
